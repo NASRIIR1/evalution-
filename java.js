@@ -1,9 +1,2 @@
-document.addEventListener('DOMContentLoaded', function() {
-    var elems = document.querySelectorAll('.dropdown-trigger');
-    var instances = M.Dropdown.init(elems, options);
-  });
 
-  // Or with jQuery
-
-  $('.dropdown-trigger').dropdown();
-        
+			<div class="menu-menu_recrutement-container"><ul id="menu-menu_recrutement" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10371"><a href="https://simplon.co/qui-sommes-nous/">A propos</a>
